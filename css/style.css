@@ -1,0 +1,28 @@
+
+:root{
+    --logo-color: #ff00ea;
+    --thumb-color: #727272;
+    --menu-color: #ff0000;
+    --title-color: #33b300;
+    --yellow-color: #d9ff00;
+  }
+
+  .logo {
+    color: var(--logo-color);
+  }
+
+  .thumb {
+    color: var(--thumb-color);
+  }
+
+  .menu {
+    color: var(--menu-color);
+  }
+
+  .title {
+    color: var(--title-color);
+  }
+
+  .yellow {
+    color: var(--yellow-color);
+  }
